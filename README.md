@@ -8,3 +8,5 @@ This project involves building a full-stack JavaScript Request Header Parser Mic
   - Completed endpoint for retrieving the IP address in the language key.
   - Completed retrieval of preferred language
   - Completed retrieval of user software information
+--
+📄 License: This project is completed for educational purposes under the FreeCodeCamp curriculum.
